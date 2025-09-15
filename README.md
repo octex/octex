@@ -2,8 +2,7 @@
 
 I'm octi. I love videogames programming and I'm currently working on something. I have experience as QA and backend development. Nowdays I'm mainly coding on Python but I find always interesting to experiment with different languages all the time :)
 
-Feel free to use any repo that you may find useful ᕕ(⌐■_■)ᕗ ♪♬
-
+Feel free to use any repo that you may find useful! ᕕ(⌐■_■)ᕗ ♪♬
 <!--
 **octex/octex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
